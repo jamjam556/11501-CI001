@@ -6,7 +6,7 @@ Name/Student ID: 曾文羿/1121428
 Course Repository: 11501-CI001  
 Course Repository URL: (https://github.com/yfhuang/YZUCSE_CI001)  
 Personal Website Repository: jamjam556.github.io  
-Personal Website Repository URL: jamjam556.github.io 
+Personal Website Repository URL: (https://github.com/jamjam556/jamjam556.github.io) 
  
 
 
